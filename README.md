@@ -24,5 +24,6 @@ datasets: [
 
 ]
 ```
-<img width="1728" alt="Screenshot 2023-11-09 at 12 26 20 PM" src="https://github.com/shaogatalam/Chart-Js-linechart-plugin/assets/24977879/87a64d4f-7b4b-4146-97a9-19b02740b95f">
+<img width="688" alt="Screenshot 2023-11-09 at 12 28 15 PM" src="https://github.com/shaogatalam/Chart-Js-linechart-plugin/assets/24977879/10f6f201-24d7-4bd7-a983-4f198dd8602e">
+
 
