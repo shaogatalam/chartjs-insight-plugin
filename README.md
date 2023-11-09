@@ -1,4 +1,4 @@
-# Chart-Js-linechart-plugin
+# ChartJs-linechart-plugin
 
 When hovering over a data point, view point-to-point comparisons from the current point to the end.
 
