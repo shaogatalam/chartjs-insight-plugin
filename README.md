@@ -21,6 +21,8 @@ datasets: [
           label: 'New-Customer',
           data: new_data,
         },
+
 ]
 ```
+<img width="1728" alt="Screenshot 2023-11-09 at 12 26 20 PM" src="https://github.com/shaogatalam/Chart-Js-linechart-plugin/assets/24977879/87a64d4f-7b4b-4146-97a9-19b02740b95f">
 
