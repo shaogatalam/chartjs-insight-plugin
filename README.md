@@ -2,7 +2,7 @@
 
 When hovering over a data point, view point-to-point comparisons from the current point to the end.
 
-The comparison value will be shown below each point's label on the x axis.
+The comparison value will be shown bellow each point's label on the x axis.
 
 The tooltip shows the point's value and a summary of total, min, max, and AVG values from the current point to the end.
 
